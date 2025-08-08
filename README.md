@@ -1,12 +1,26 @@
-# React + Vite
+# E-Commerce-Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my take on building a fully functional E-Commerce-Store. It will be a simple dropshipping website. That lets users add to their carts, remove items, update qaunity and even more. It is built using React + Vite. 
 
-Currently, two official plugins are available:
+## Technologies Used
+ - **Frontend**: React 18 + Vite
+ - **Routing**: React Router DOM
+ - **State Management**: React Context + useReducer
+ - **Styling**: CSS3 + Responsive
+ - **Icons**: Lucide React
+ - **Payments**: Stripe (planned)
+ - **Deployment**: Netlify (planned)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ## Features
+ - **Product catalog with detailed views**
+ - **Shopping cart functionality**
+ - **Add/Remove items**
+ - **Update item quantities**
+ - **Responsive mobile design**
+ - **Stripe Payment intergration**
+ - **User authentication**
+ - **Order history**
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ ## Project Status
+ -  **In Development** - Building shoping cart functionality (8/8/2025); just started app.
